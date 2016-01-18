@@ -1,1 +1,3 @@
 # Semaine7
+
+Cette semaine, j'ai édité mon CV avec _Bootstrap_ (d'ailleurs je crois que je commence enfin à en intégrer le fonctionnement) en intégrant un effet scroll et j'ai intégré un _portfolio_. J'ai enfin compris comment répartir mes fichiers en dossiers, c'est idiot mais ça m'a donné du fil à retordre. Je vais sans doute encore devoir bosser dessus, mais je me sens déjà plus à l'aise cette semaine. 
